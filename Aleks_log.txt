@@ -1,0 +1,18 @@
+
+
+
+Create New Project
+I:\! Apriorit\MY\BDwebManager\1.0
+
+Name: BDwebManager
+Template: Basic
+A basic ASP.NET MVC 4 project.
+View Engine: Razor
+Create a unit test project: BDwebManager.UnitTests
+Test framework: Visual Studio Unit Test
+
+
+
+Create branch 'develop' from 'master'
+
+Create branch 'Aleks' from 'develop'
