@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDwebManager", "BDwebManager\BDwebManager.csproj", "{AB2D9697-6377-4133-A50F-CCEC1B1D47FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDwebManager.UnitTests", "BDwebManager.UnitTests\BDwebManager.UnitTests.csproj", "{8EC6152D-2EEE-4290-859E-20358D60E5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB2D9697-6377-4133-A50F-CCEC1B1D47FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2D9697-6377-4133-A50F-CCEC1B1D47FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2D9697-6377-4133-A50F-CCEC1B1D47FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2D9697-6377-4133-A50F-CCEC1B1D47FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC6152D-2EEE-4290-859E-20358D60E5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC6152D-2EEE-4290-859E-20358D60E5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC6152D-2EEE-4290-859E-20358D60E5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC6152D-2EEE-4290-859E-20358D60E5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
